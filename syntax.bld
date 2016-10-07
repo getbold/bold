@@ -1,0 +1,17 @@
+// stylesheets
+style: main.sass
+style: main.css
+
+// defining id's
+-main-:
+
+h1: This is the first header
+h2: This is the second one
+
+p: This is a paragraph
+
+i: This text is italic
+
+b: And this one is bold
+
+span_class1_class2: this text has 2 classes
