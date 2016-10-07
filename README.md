@@ -1,2 +1,2 @@
 # bold
-A modern text parser
+A modern text parser with style
