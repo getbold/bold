@@ -1,4 +1,5 @@
-/*this files holds the functions to check the input-string for special characters*/
+/*this files holds the functions to check the input-string for special characters
+*including classes in your document is coming soon*/
 //includes
 #include <string.h>
 #include <stdio.h>
