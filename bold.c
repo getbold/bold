@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include "bold.h"
 
-void checkForChars(char* string, FILE* document, File* style){
+void printOutLine(char* string, FILE* document, File* style){
 	int i, i2;
     char class[1000];
     char helpline[10000];
