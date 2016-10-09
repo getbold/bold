@@ -10,6 +10,7 @@ A modern text parser with style
 * Website + Download (live)
 * Add styling options(CSS & SASS)
 * Export to HTML
+* Add wiki(in progress)
 * Automatic linking(with Webservers in different languages)
 * Documentation
 * Add support for HTML classes(in progress)
