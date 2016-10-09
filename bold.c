@@ -49,7 +49,7 @@ void checkForChars(char* string, FILE* document, File* style){
         for(i=0;helpline[i+1]=='\0';i++){//
             helpline[i]=helpline[i+1];
         }
-		helpline='\0';
+		helpline[i]='\0';
         fprintf(document, "<div class=\"%s\">%s", helpline);
     }
 	if(string[strlen(string)-2]=='^'){
