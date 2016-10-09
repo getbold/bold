@@ -1,4 +1,4 @@
-# bold
+# Bold
 A modern text parser with style
 
 ## Currently being build by
