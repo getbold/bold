@@ -50,7 +50,7 @@ void checkForChars(char* string, FILE* document, File* style){
             helpline[i]=helpline[i+1];
         }
 		helpline[i]='\0';
-        fprintf(document, "<div class=\"%s\">%s", helpline);
+        fprintf(document, "<div class=\"%s\">%s", helpline, string);
     }
 	if(string[strlen(string)-2]=='^'){
 		if(string[0]=='b'&&string[1]==':'||string[0]=='u'&&string[1]==':'||string[0]=='i'&&string[1]==':'||string[0]=='_'){
