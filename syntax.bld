@@ -14,4 +14,4 @@ i: This text is italic
 
 b: And this one is bold
 
-span_class1_class2: this text has 2 classes
+span_class1_class2: this text has 2 classes//at the current step in the development process, there is only 1 class aviable
