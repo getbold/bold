@@ -7,10 +7,11 @@ A modern text parser with style
 
 ## Todo
 * Basic HTML parsing (in progress)
-* Website + Download (in progress)
+* Website + Download (live)
 * Add styling options(CSS & SASS)
+* Export to HTML
 * Automatic linking(with Webservers in different languages)
 * Documentation
-* Add support for HTML classes
+* Add support for HTML classes(in progress)
 * Add support for HTML id's
 * Exporting to PDF
