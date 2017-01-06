@@ -3,7 +3,7 @@ A modern text parser with style
 [getbold.github.io](https://getbold.github.io)
 ## Currently being build by
 [@funcke](https://github.com/funcke)
-[@withtobi](https://github.com/withtobi)
+[@tobihrbr](https://github.com/tobihrbr)
 
 ## Todo
 * Basic HTML parsing (in progress)
