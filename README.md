@@ -15,5 +15,4 @@ A modern text parser with style
 * Documentation
 * Add support for HTML classes(in progress)
 * Add support for HTML id's
-* Add Js/Ts
 * Exporting to PDF
