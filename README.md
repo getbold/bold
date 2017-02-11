@@ -1,6 +1,8 @@
 # Bold
 A modern text parser with style.
 
+> Deprecated
+
 [getbold.github.io](https://getbold.github.io).
 ## Currently being build by
 [@funcke](https://github.com/funcke)
